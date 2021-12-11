@@ -11,6 +11,6 @@ Compile / unmanagedSourceDirectories := (Compile / javaSource).value :: Nil
 name := "Day5";
 organization := "jgsma.adventofcode";
 version := "1.0.0";
-
+Compile / mainClass := Some("jgsma.adventofcode.App");
 Universal / mappings ++= directory(sourceDirectory.value / "main/resources")
 javafmtOnCompile := true;

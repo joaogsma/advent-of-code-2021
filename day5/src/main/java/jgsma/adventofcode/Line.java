@@ -1,3 +1,5 @@
+package jgsma.adventofcode;
+
 import java.util.ArrayList;
 import java.util.List;
 
