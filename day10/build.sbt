@@ -2,7 +2,7 @@ import NativePackagerHelper._
 
 enablePlugins(JavaAppPackaging)
 
-name := "Day9"
+name := "Day10"
 organization := "jgsma.adventofcode"
 version := "1.0.0"
 scalaVersion := "2.13.6"
